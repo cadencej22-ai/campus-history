@@ -13,7 +13,7 @@ start:                                   # the year your story begins, shown on 
 # Leave this line as it is.
 layout: essay
 ---
-
+Write a ~600-word history of La Posada Dining Hall at the University of New Mexico. Include specific dates, events, people, and sources where possible. Be clear about your sources.
 This first paragraph should give readers a quick way into your topic. Start with a scene, a question, a surprising fact, or a problem your essay will explain. You do not need to summarize everything here. Help the reader understand why this campus place, person, organization, object, or event deserves attention.
 
 Keep the above lead paragraph first. Do not put an image, a heading, or any other component above it.
