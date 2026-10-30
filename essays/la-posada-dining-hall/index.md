@@ -13,10 +13,12 @@ start:                                   # the year your story begins, shown on 
 # Leave this line as it is.
 layout: essay
 ---
-A History of La Posada Dining Hall at the University of New Mexico
+# A History of La Posada Dining Hall at the University of New Mexico
+
 La Posada Dining Hall, located in the northeastern residential section of the University of New Mexico's (UNM) Albuquerque campus, has been an important part of student life since 1969. More than simply a cafeteria, La Posada was conceived as a communal gathering place for students living in the university's residence halls. Its history reflects the expansion of UNM's residential campus in the 1960s, changing ideas about student life, and the evolution of university dining services over more than five decades.
 
-Origins: The expansion of UNM's residential campus, 1965–1969
+## Origins: The expansion of UNM's residential campus, 1965–1969
+
 La Posada emerged from a major period of campus development during the 1960s. In October 1965, the New Mexico Board of Educational Finance approved a university revenue-bond issue to finance several significant construction projects. These included The Pit basketball arena, an Olympic swimming pool, and the Laguna and DeVargas residence halls, along with La Posada dining hall. The projects reflected UNM's growing enrollment and its efforts to develop a more substantial residential campus.
 
 The architectural team responsible for La Posada included Ernest J. Kump and Associates, with William W. Ellison serving as project architect. The adjacent residential complex was designed to encourage a sense of community among students rather than simply provide conventional dormitory accommodations. Landscape architects Garrett Eckbo, Dean, Austin & Williams contributed to the surrounding landscape design.
@@ -25,7 +27,8 @@ La Posada was completed in 1969. A New Mexico Historic Cultural Properties Inven
 
 Its original design was particularly interesting. According to a 1973 architectural publication, La Posada functioned as a commons for students living in DeVargas, Laguna, and other university residence halls. It contained three dining rooms organized around a three-story, glass-enclosed dining room and patio. The arrangement made dining a social experience and provided a shared gathering space for the residential community.
 
-The building and its evolving role, 1970s–2000s
+## The building and its evolving role, 1970s–2000s
+
 La Posada's architectural development involved some important decisions during its planning. A student-produced history published by UNM's Amaranth Digital Humanities Studio identifies Sherman Smith, the university's recently appointed administrative vice president, as responsible for revising the original plans. Smith increased the building's maximum capacity to 1,525 people by enclosing the central patio, which had originally been intended as an open-air space. This decision substantially changed the building's interior arrangement and its relationship to the surrounding courtyard.
 
 The construction was undertaken by Lembke Construction Company. Photographs preserved in UNM's archival collections document the project underway on September 13, 1968, and again on October 23, 1968.
@@ -34,7 +37,8 @@ La Posada also received professional recognition. In 1973, Ernest J. Kump, Willi
 
 Over subsequent decades, the building remained an important part of the residential campus. Its role extended beyond providing meals: it offered students a shared place to socialize, study, and interact with fellow residents. Photographs from the 1970s and 1980s, reproduced in the UNM Campus Histories project, document changes to its courtyard and surrounding spaces.
 
-Twenty-first-century changes: 2015–2017
+## Twenty-first-century changes: 2015–2017
+
 One of the most significant changes to La Posada's operation came in fall 2015, when the dining hall began offering 24-hour service. According to a September 12, 2016, UNM Newsroom article by Shar Spalding, the decision followed feedback from students and parents, who wanted students to have a safe place to eat and gather late at night.
 
 Timothy Backes, then associate director of Business Operations, explained that the original idea was to give students somewhere to go at night. The extended hours also supported students with demanding class schedules and extracurricular commitments. Freshman Shantal Begay, interviewed for the article, described feeling safer remaining on campus rather than going elsewhere for late-night food. By 2016, the facility was serving approximately 2,500–3,500 students daily.
@@ -45,38 +49,33 @@ Construction began in May 2017, following the dining hall's closure on May 13. T
 
 La Posada reopened following the summer renovation. On August 30, 2017, UNM held an official reopening celebration, the #EatLikeALobo Block Party. University President Abdallah, Associate Vice President Chris Vallejos, and Chartwells regional vice president Nadeem Zafar participated in the event, which included a ceremonial ribbon cutting.
 
-La Posada in the present day
+## La Posada in the present day
+
 The 2017 renovation represented an effort to preserve La Posada's original purpose while adapting it to contemporary student needs. At the time of reopening, Chartwells Resident District Manager Paul Wilson-Scott reported that the facility served between 3,000 and 5,000 meals daily, amounting to more than one million meals during an academic year.
 
 Today, La Posada remains UNM's principal residential dining facility. Its food offerings have evolved to include New Mexican cuisine, made-to-order meals, vegetarian options, and accommodations for common food allergies. The university continues to describe it as a central dining destination for the campus community.
 
 More than half a century after its construction, La Posada retains the central idea behind its original design: a shared space where students living on campus can eat, meet, study, and develop a sense of community. Its history is therefore closely connected to the development of UNM's residential campus and the university's changing understanding of student life.
 
-Sources and further reading
+## Sources and further reading
+
 The following sources provide the historical basis for this account. I have distinguished archival and institutional records from retrospective student research.
 
-1. Aaron Padilla, "La Posada Dining Hall," UNM Campus Histories, Amaranth Digital Humanities Studio. Particularly useful for the planning history, Sherman Smith's design changes, Lembke Construction Company, archival photographs, and the 1973 architectural award. It includes a bibliography pointing to university archival collections.
-Read the essay .
+1. Aaron Padilla, "La Posada Dining Hall," UNM Campus Histories, Amaranth Digital Humanities Studio. Particularly useful for the planning history, Sherman Smith's design changes, Lembke Construction Company, archival photographs, and the 1973 architectural award. It includes a bibliography pointing to university archival collections. [Read the essay](<https://amaranth.unm.edu/campus-history/essays/la-posada/?utm_source=chatgpt.com>).
 
-2. New Mexico Historic Preservation Division, Historic Cultural Properties Inventory, La Posada Dining Hall, Building #77. Surveyed March 8, 2006, as part of the Getty Campus Heritage Survey. Documents the September 8, 1969 construction date, architects, architectural style, and relationship to Laguna and DeVargas halls.
-Read the inventory .
+2. New Mexico Historic Preservation Division, Historic Cultural Properties Inventory, La Posada Dining Hall, Building #77. Surveyed March 8, 2006, as part of the Getty Campus Heritage Survey. Documents the September 8, 1969 construction date, architects, architectural style, and relationship to Laguna and DeVargas halls. [Read the inventory](<https://citeseerx.ist.psu.edu/document?doi=72a4f4911de2712d5e30834f98a5407d47ca0bcd&repid=rep1&type=pdf&utm_source=chatgpt.com>).
 
-3. University of New Mexico Board of Regents, November 15, 2016 meeting minutes, pp. 3–4. Primary institutional documentation of the $2.8 million renovation approval, funding sources, project schedule, and proposed improvements.
-Read the meeting minutes (PDF) .
+3. University of New Mexico Board of Regents, November 15, 2016 meeting minutes, pp. 3–4. Primary institutional documentation of the $2.8 million renovation approval, funding sources, project schedule, and proposed improvements. [Read the meeting minutes (PDF)](<https://regents.unm.edu/meetings/minutes/2016/bor-minutes-2016-11-15.pdf?utm_source=chatgpt.com>).
 
-4. Shar Spalding, "La Posada open 24 hours a day for student convenience," UNM Newsroom, September 12, 2016. Documents the transition to 24-hour service, student and parent feedback, and comments from Timothy Backes and student residents.
-Read the article .
+4. Shar Spalding, "La Posada open 24 hours a day for student convenience," UNM Newsroom, September 12, 2016. Documents the transition to 24-hour service, student and parent feedback, and comments from Timothy Backes and student residents. [Read the article](<https://news.unm.edu/news/la-posada-open-24-hours-a-day-for-student-convenience?utm_source=chatgpt.com>).
 
-5. Rachel Stone, "La Posada opens its doors after summer renovation," UNM Newsroom, August 28, 2017. Documents the renovated building, new dining stations, and comments from Tim Backes and Chartwells manager Paul Wilson-Scott.
-Read the article .
+5. Rachel Stone, "La Posada opens its doors after summer renovation," UNM Newsroom, August 28, 2017. Documents the renovated building, new dining stations, and comments from Tim Backes and Chartwells manager Paul Wilson-Scott. [Read the article](<https://news.unm.edu/news/la-posada-opens-its-doors-after-summer-renovation?utm_source=chatgpt.com>).
 
-6. New Mexico Architecture, July–August 1973. Contemporary architectural coverage of the DeVargas–Laguna residential complex, including La Posada's original function and architectural arrangement.
-Consult the digitized publication .
+6. New Mexico Architecture, July–August 1973. Contemporary architectural coverage of the DeVargas–Laguna residential complex, including La Posada's original function and architectural arrangement. [Consult the digitized publication](<https://www.usmodernist.org/AIANM/AIANM-1973-07-08.pdf?utm_source=chatgpt.com>).
 
 Additional archival reference: Van Dorn Hooker, Melissa Howard, and V. B. Price, Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889–1989 (University of New Mexico Press, 2000). This is particularly relevant for understanding La Posada within the larger architectural history of the university.
 
 Research note: The most useful sources for establishing specific dates and institutional decisions are the Historic Cultural Properties Inventory and Board of Regents minutes. The Amaranth essay adds valuable architectural context and identifies archival photographs and records, although it is a student-produced retrospective rather than a formal institutional history. The UNM Newsroom articles provide contemporary documentation of the 2015–2017 changes.
-Keep the above lead paragraph first. Do not put an image, a heading, or any other component above it.
 
 ## Main Story
 
